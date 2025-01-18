@@ -39,7 +39,7 @@ git clone https://github.com/mukul2309/PRODIGY_ML_01.git
 ```
 
 ### 2. Predict New Data
-You can update the `new_data.csv` file with new house details and use the model to predict prices.
+You can update the `submission.csv` file with new house details and use the model to predict prices.
 
 ## Model Details
 The project uses **Simple Linear Regression** and **Multiple Linear Regression** depending on the input features:
